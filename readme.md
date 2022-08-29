@@ -10,7 +10,7 @@
 
 ## **Live Demo**  💻 
 
->### _[**Live Link**](https://inquisitive-valkyrie-ac0d02.netlify.app/)_
+>### _[**Live Link**](https://nimble-gaufre-db4c28.netlify.app/)_
 <br>
 
 ## **Preview**🔎
